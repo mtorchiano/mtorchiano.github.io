@@ -4,5 +4,5 @@
 
 layout: home
 ---
-## Just some thoughts
+
 
