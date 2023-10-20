@@ -33,6 +33,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  social_links:
+    - platform: mastodon  # same as SVG filename.
+      user_url: "https://mastodon.uno/@mtorchiano"  # URL of profile page.
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
