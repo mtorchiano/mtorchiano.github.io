@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Comments about society, university, life and all the rest.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mtorchiano.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author: Marco Torchiano
 twitter_username: mtorchiano
 github_username:  mtorchiano
 
@@ -32,6 +33,7 @@ github_username:  mtorchiano
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 minima:
   social_links:
