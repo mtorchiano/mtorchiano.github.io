@@ -110,7 +110,7 @@ A questo punto occorre condurre delle indagini vere e proprie per accertare l'ev
 
 Complessivamente i vari passaggi possono essere visti come modi di ridurre sempre più il cerchio, fino a avere degli evasori accertati:
 
-![](../img/InsiemiEvasori.png)
+![](/img/InsiemiEvasori.png)
 
 
 ### Limiti di rappresentazione
