@@ -16,10 +16,12 @@ Alcune mie foto le trovate sul mio profilo Instagram
 ---
 
 [Full Professor](https://softeng.polito.it/torchiano) in Software Engineering at Politecnico di Torino.
+
 I like quantitative, empirically sound opinions, and goal oriented visualizations.
 
-My erratic research interests include but are not limited software modeling notations, open-data quality, static code analysis, Off-The-Shelf based development, agile methods, information visualization, green software, and code obfuscation….and since a while blogger and even twitter user.
+My erratic research interests include but are not limited software modeling notations, open-data quality, static code analysis, Off-The-Shelf based development, agile methods, information visualization, green software, and code obfuscation.
 
+You can find some of my photos on my Instagram profile
 
 ---
 
