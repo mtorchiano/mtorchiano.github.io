@@ -32,6 +32,7 @@ url: "https://mtorchiano.github.io" # the base hostname & protocol for your site
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 minima:
   social_links:
@@ -41,6 +42,7 @@ minima:
       user_url: "https://mastodon.uno/@mtorchiano"  # URL of profile page.
     - platform: instagram  # same as SVG filename.
       user_url: "https://instagram.com/mtorchiano"  # URL of profile page.
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
