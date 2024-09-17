@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<article>
+  <h2>{{ page.title }}</h2>
+  {{ page.description }}
+  <br>
+  <br>
+  Published on <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time> by {{ page.author }}
+  <br>
+  <br>
+  {{ content }}
+</article>
+<br>
+{% include share-bar.html %}
+<br>
